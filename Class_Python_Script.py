@@ -4,4 +4,4 @@
 print("Hello World - to the class")
 
 # haydn printed this
-print("Hi everyone!")
+print("hi everyone!")
